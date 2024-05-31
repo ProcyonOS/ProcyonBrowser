@@ -10,7 +10,7 @@ class MainWindow(QMainWindow):
 
         # Set the window title
         self.setWindowTitle("Procyon Browser")
-        self.setWindowIcon(QIcon("C:\\Users\\gauth\\OneDrive\\Pictures\\ProcyonBrowser.ico"))
+        self.setWindowIcon(QIcon("ProcyonBrowser.ico"))
 
         # Create a tab widget
         self.tab_widget = QTabWidget()
