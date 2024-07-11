@@ -3,9 +3,9 @@
 
 The Procyon Browser for ProcyonOS
 
-## What are not supported?
+## What are not yet supported?
 * Fullscreen
-* links opening in new tab
+* Links opening in new tab
 * Arrow keys in few sites and games
 
 ## Current Version
